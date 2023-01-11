@@ -1,4 +1,6 @@
 ﻿# HTML Odev 2 Kisisel Sayfamizi Detaylandirmaya Devam Etmek
+ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğum  HTML Odev 2 Kisisel Sayfamizi Detaylandirmaya Devam Etmek ödevi için açılmıştır.
+ 
 ## Bu ödevde;
 - Sayfama resim ekledim ve bu resime bir açıklama yazdım.
 
